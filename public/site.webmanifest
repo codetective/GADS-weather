@@ -1,0 +1,18 @@
+{
+  "name": "O'weather",
+  "short_name": "O'weather",
+  "icons": [{
+    "src": "/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+     "purpose": "any maskable"
+  }, {
+    "src": "/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "theme_color": "#4682b4",
+  "background_color": "#fdfdfd",
+  "display": "standalone",
+  "start_url":"index.html"
+}
